@@ -1,6 +1,6 @@
 ## NewsX: Privacy policy
 
-Welcome to the NewsX app!
+Welcome to the NewsX app!xxx
 
 This app is developed by Soumya Ranjan Das.<br>
 The app is available on Google Play. 

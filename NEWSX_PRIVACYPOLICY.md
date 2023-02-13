@@ -1,0 +1,36 @@
+## NewsX: Privacy policy
+
+Welcome to the NewsX app!
+
+This app is developed by Soumya Ranjan Das.<br>
+The app is available on Google Play. 
+
+As an avid Android user myself, I take privacy very seriously.<br/>
+I know how irritating it is when apps collect your data without your knowledge.
+
+This app doesn't collect any personally identifiable information. All data app preferences (like theme, etc.) created by you (the user) are stored on your device only, and can be simply erased by clearing the app's data or uninstalling it.
+
+### Explanation of permissions requested in the app
+No permissions needed for this app
+
+### Explanation of cookie usage in the app
+No personally identifiable data is stored in cookies. 
+Only user settings(see table below) are stored. 
+
+| Name | Value | 
+|----------|----------|
+| version | Stores the version of app |
+| theme | Sets the theme of app (default `light`) |
+| edition | Sets the edition to read (default `international`) |
+| preference | Sets the read preference (default `show unread`) |
+| browser_uid | Random unique id generated for each app instance |
+| search | Stores the search string |
+
+<hr>
+
+If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protectes your privacy, please send me an email or post a discussion on GitHub, and I will surely try to fix it/help you.
+
+Yours sincerely,  
+Soumya Ranjan Das  
+Hyderabad, India  
+soumyazyx@gmail.com

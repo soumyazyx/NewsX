@@ -17,14 +17,14 @@ No permissions needed for this app
 No personally identifiable data is stored in cookies. 
 Only user settings(see table below) are stored. 
 
-| Name | Value | 
-|----------|----------|
+| Name | Value| 
+|------|-------|
 | version | Stores the version of app |
-| theme | Sets the theme of app (default `light`) |
+| theme   | Sets the theme of app (default `light`) |
 | edition | Sets the edition to read (default `international`) |
-| preference | Sets the read preference (default `show unread`) |
-| browser_uid | Random unique id generated for each app instance |
-| search | Stores the search string |
+| preference  | Sets the read preference (default `show unread`) |
+| search  | Stores the search string |
+| browser_uid | Random unique id generated for each app instance. <br>This is used to keep track of articles read by user so as not to show the same articles again |
 
 <hr>
 

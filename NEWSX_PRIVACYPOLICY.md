@@ -1,4 +1,4 @@
-## NewsX: Privacy policy
+## TimeLine News: Privacy policy
 
 Welcome to the NewsX app!
 

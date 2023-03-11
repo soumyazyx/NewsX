@@ -1,9 +1,8 @@
 ## TimeLine News: Privacy policy
 
-Welcome to the Timeline NEws app!
+Welcome to the Timeline News app!
 
 This app is developed by Soumya Ranjan Das.<br>
-The app is available on Google Play. 
 
 As an avid Android user myself, I take privacy very seriously.<br/>
 I know how irritating it is when apps collect your data without your knowledge.

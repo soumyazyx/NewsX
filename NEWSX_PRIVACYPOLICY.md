@@ -1,6 +1,6 @@
 ## TimeLine News: Privacy policy
 
-Welcome to the NewsX app!
+Welcome to the Timeline NEws app!
 
 This app is developed by Soumya Ranjan Das.<br>
 The app is available on Google Play. 
@@ -11,7 +11,7 @@ I know how irritating it is when apps collect your data without your knowledge.
 This app doesn't collect any personally identifiable information. All data app preferences (like theme, etc.) created by you (the user) are stored on your device only, and can be simply erased by clearing the app's data or uninstalling it.
 
 ### Explanation of permissions requested in the app
-No permissions needed for this app
+No permissions are needed for this app
 
 ### Explanation of cookie usage in the app
 No personally identifiable data is stored in cookies. 
